@@ -1,0 +1,1 @@
+console.log("Lightex Fire Loaded Successfully");
